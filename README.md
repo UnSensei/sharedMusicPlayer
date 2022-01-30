@@ -1,3 +1,3 @@
 # sharedMusicPlayer
 
-Python Django React App to share play music
+Python Django React App to share play music with spotifyAPI
